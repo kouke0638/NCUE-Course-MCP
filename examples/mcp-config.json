@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ncue-course-query": {
+      "command": "ncue-course-mcp",
+      "args": []
+    }
+  }
+}

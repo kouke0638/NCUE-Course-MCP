@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "ncue-course-query": {
+      "command": "python",
+      "args": [
+        "<absolute-path-to-repository>\\scripts\\run_mcp_server.py"
+      ]
+    }
+  }
+}
