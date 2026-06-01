@@ -2,7 +2,7 @@
 
 # NCUE Course MCP
 
-**一個零執行期依賴的 MCP Server，將彰師大公開課表查詢系統包裝成結構化工具。**
+**構建 MCP Server，將彰師大公開課表查詢包裝成結構化工具。**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![MCP](https://img.shields.io/badge/MCP-stdio-5A67D8?style=flat-square)](https://modelcontextprotocol.io)
